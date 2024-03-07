@@ -2,23 +2,21 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
-
+alt = Brooke Abbott
+Brooke Abbott
+Paid Performance, Associate Director
 Show Contacts
 
 Email
-richard@example.com
-
+officeofbrookeabbott@gmail.com
 Phone
-+1 (213) 352-2795
++1 (203) 979-5870
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+New York, New York, USA
 
 # navbar
 
